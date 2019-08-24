@@ -1,4 +1,4 @@
-module OneDark exposing
+module Color.OneDark exposing
     ( black, white
     , lightRed, darkRed
     , lightYellow, darkYellow

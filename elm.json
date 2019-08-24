@@ -3,9 +3,9 @@
     "name": "cappyzawa/elm-ui-colors",
     "summary": "The color schemes using https://github.com/mdgriffith/elm-ui",
     "license": "BSD-3-Clause",
-    "version": "1.0.1",
+    "version": "2.0.0",
     "exposed-modules": [
-        "OneDark"
+        "Color.OneDark"
     ],
     "elm-version": "0.19.0 <= v < 0.20.0",
     "dependencies": {
