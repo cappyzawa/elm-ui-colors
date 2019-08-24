@@ -3,7 +3,7 @@
     "name": "cappyzawa/elm-ui-colors",
     "summary": "The color schemes using https://github.com/mdgriffith/elm-ui",
     "license": "BSD-3-Clause",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "exposed-modules": [
         "OneDark"
     ],

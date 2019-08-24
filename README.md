@@ -1,11 +1,13 @@
-# elm-ui-onedark
+# elm-ui-colors
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
-elm packages: [elm\-ui\-colors](https://package.elm-lang.org/packages/cappyzawa/elm-ui-colors/latest/)<br>
+elm packages: [elm\-ui\-colors](https://package.elm-lang.org/packages/cappyzawa/elm-ui-colors/latest/)
+
 The color schemes using https://github.com/mdgriffith/elm-ui
 
 ## Color Reference
 *OneDark*
+
 ![](https://raw.githubusercontent.com/cappyzawa/demo/master/elm-ui-onedark/color.png)
 
 ## Install
