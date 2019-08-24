@@ -2,12 +2,12 @@ module Main exposing (main)
 
 {-| -}
 
+import Color.OneDark as OneDark
 import Element exposing (..)
 import Element.Background as Background
 import Element.Font as Font
 import Element.Input
 import Element.Lazy
-import OneDark exposing (..)
 
 
 main =
